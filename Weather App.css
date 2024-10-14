@@ -1,0 +1,90 @@
+.main{
+    width:690px;
+    height:740px;
+    margin-left:450px;
+    margin-top:20px;
+
+    background: linear-gradient(132deg, rgb(0, 255, 255) 0.00%, rgb(0, 48, 143) 100.00%);
+}
+.main input{
+    width:300px;
+    height:40px;
+    border-radius:40px;
+    margin:50px 10px 20px 150px;
+    background-color:aliceblue;
+    float:left;
+    padding:5px;
+    font-size:20px;
+    text-align:center;
+    border:2px solid black;
+}
+.main button{
+    width:50px;
+    height:50px;
+    border-radius:50%;
+    background-color:aliceblue;
+    margin:50px 20px 30px 10px;
+}
+.main button img{
+    width:20px;
+}
+#sun{
+   margin-top:15px;
+    margin-left:220px;
+}
+.text{
+   
+    font-size:45px;
+    font-family:arial;
+    text-align:center;
+    color:aliceblue;
+}
+.temps{
+    font-size:70px;
+    margin-top:7px;
+}
+.place{
+    margin-top:-55px;
+}
+.humidity{
+    float:left;
+    margin-top:45px;
+    margin-left:100px;
+}
+.image{
+    float:left;
+    height:60px;
+    width:70px;
+}
+.percentage{
+    float:left;
+    font-size:30px;
+    padding-left:20px;
+    padding-bottom:10px;
+    margin-top:-25px;
+    margin-bottom:0px;
+    color:white;
+}
+h5{
+    margin-top:-50px;
+    font-size:23px;
+    padding:27px;
+    margin-left:-30px;
+    color:white;
+}
+.wind{
+    margin-left:370px;
+    margin-top:85px;
+}
+.image2{
+    float:left;
+}
+.speed{
+    float:left;
+    font-size:30px;
+    padding-left:20px;
+    padding-bottom:10px;
+    margin-top:-25px;
+    margin-bottom:0px;
+    color:white;
+}
